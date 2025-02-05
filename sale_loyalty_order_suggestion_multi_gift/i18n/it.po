@@ -22,11 +22,14 @@ msgid "Sale Loyalty - Reward Selection Wizard"
 msgstr "Procedura guidata selezione premio - programma fedeltà vendite"
 
 #. module: sale_loyalty_order_suggestion_multi_gift
+#: model:ir.model,name:sale_loyalty_order_suggestion_multi_gift.model_sale_loyalty_reward_product_line_wizard
+msgid "Sale Loyalty Reward Product Line Wizard"
+msgstr ""
+
+#. module: sale_loyalty_order_suggestion_multi_gift
 #: model:ir.model,name:sale_loyalty_order_suggestion_multi_gift.model_sale_order
 msgid "Sales Order"
 msgstr "Ordine di vendita"
 
-#. module: sale_loyalty_order_suggestion_multi_gift
-#: model:ir.model,name:sale_loyalty_order_suggestion_multi_gift.model_sale_loyalty_reward_product_line_wizard
-msgid "sale.loyalty.reward.product_line.wizard"
-msgstr "sale.loyalty.reward.product_line.wizard"
+#~ msgid "sale.loyalty.reward.product_line.wizard"
+#~ msgstr "sale.loyalty.reward.product_line.wizard"
