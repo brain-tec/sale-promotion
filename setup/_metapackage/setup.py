@@ -26,10 +26,12 @@ setuptools.setup(
         'odoo-addon-sale_loyalty_order_line_link>=16.0dev,<16.1dev',
         'odoo-addon-sale_loyalty_order_suggestion>=16.0dev,<16.1dev',
         'odoo-addon-sale_loyalty_order_suggestion_multi_gift>=16.0dev,<16.1dev',
+        'odoo-addon-sale_loyalty_order_suggestion_multi_product>=16.0dev,<16.1dev',
         'odoo-addon-sale_loyalty_partner>=16.0dev,<16.1dev',
         'odoo-addon-sale_loyalty_partner_applicability>=16.0dev,<16.1dev',
         'odoo-addon-website_sale_loyalty_page>=16.0dev,<16.1dev',
         'odoo-addon-website_sale_loyalty_suggestion_wizard>=16.0dev,<16.1dev',
+        'odoo-addon-website_sale_loyalty_suggestion_wizard_multi_product>=16.0dev,<16.1dev',
     ],
     classifiers=[
         'Programming Language :: Python',
