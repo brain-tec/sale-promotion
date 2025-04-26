@@ -23,7 +23,7 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [coupon_chatter](coupon_chatter/) | 16.0.1.0.0 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) | Register messages and activities on the sale coupon records
 [loyalty_criteria_multi_product](loyalty_criteria_multi_product/) | 16.0.1.0.1 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) | Allows to set as promotion criteria multi-product conditions
-[loyalty_incompatibility](loyalty_incompatibility/) | 16.0.1.0.0 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) | Allows to set incompatibility rules between promotions
+[loyalty_incompatibility](loyalty_incompatibility/) | 16.0.1.0.1 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) | Allows to set incompatibility rules between promotions
 [loyalty_initial_date_validity](loyalty_initial_date_validity/) | 16.0.1.0.1 |  | Set a start date for a promotion
 [loyalty_limit](loyalty_limit/) | 16.0.1.0.0 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) | Restrict number of promotions per customer or salesman
 [loyalty_mass_mailing](loyalty_mass_mailing/) | 16.0.1.0.0 |  | Loyalty Mass Mailing
@@ -37,7 +37,7 @@ addon | version | maintainers | summary
 [sale_loyalty_multi_gift](sale_loyalty_multi_gift/) | 16.0.1.0.0 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) | Allows to configure multiple gift rewards per promotion in sales
 [sale_loyalty_order_info](sale_loyalty_order_info/) | 16.0.1.0.0 |  | Add info on sale order about applied loyalties
 [sale_loyalty_order_line_link](sale_loyalty_order_line_link/) | 16.0.1.0.1 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) | Adds a link between loyalty programs and their generated order linesfor easing tracking
-[sale_loyalty_order_suggestion](sale_loyalty_order_suggestion/) | 16.0.1.0.3 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) | Suggest promotions in the sale order line
+[sale_loyalty_order_suggestion](sale_loyalty_order_suggestion/) | 16.0.1.0.4 | [![pilarvargas-tecnativa](https://github.com/pilarvargas-tecnativa.png?size=30px)](https://github.com/pilarvargas-tecnativa) | Suggest promotions in the sale order line
 [sale_loyalty_order_suggestion_multi_gift](sale_loyalty_order_suggestion_multi_gift/) | 16.0.1.0.0 |  | Suggest promotions with rewards multi gift in the sale order line
 [sale_loyalty_order_suggestion_multi_product](sale_loyalty_order_suggestion_multi_product/) | 16.0.1.0.0 |  | Suggest promotions with criteria multi product in the sale order line
 [sale_loyalty_partner](sale_loyalty_partner/) | 16.0.1.0.0 |  | Sale Loyalty Partner
