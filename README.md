@@ -17,7 +17,11 @@ Odoo addons for handling promotions on the sales funnel.
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[loyalty_card_fixed_expiration_date](loyalty_card_fixed_expiration_date/) | 17.0.1.0.0 | [![peluko00](https://github.com/peluko00.png?size=30px)](https://github.com/peluko00) [![BernatObrador](https://github.com/BernatObrador.png?size=30px)](https://github.com/BernatObrador) | Set a fixed expiration date for loyalty cards
 
 [//]: # (end addons)
 

@@ -1,0 +1,11 @@
+[project]
+name = "odoo-addons-oca-sale-promotion"
+version = "17.0.20250530.0"
+dependencies = [
+    "odoo-addon-loyalty_card_fixed_expiration_date>=17.0dev,<17.1dev",
+]
+classifiers=[
+    "Programming Language :: Python",
+    "Framework :: Odoo",
+    "Framework :: Odoo :: 17.0",
+]
