@@ -1,7 +1,8 @@
 [project]
 name = "odoo-addons-oca-sale-promotion"
-version = "18.0.20250514.0"
+version = "18.0.20250623.0"
 dependencies = [
+    "odoo-addon-sale_loyalty_order_line_link==18.0.*",
     "odoo-addon-website_sale_loyalty_page==18.0.*",
 ]
 classifiers=[
