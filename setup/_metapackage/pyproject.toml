@@ -1,7 +1,8 @@
 [project]
 name = "odoo-addons-oca-sale-promotion"
-version = "17.0.20250530.0"
+version = "17.0.20250710.0"
 dependencies = [
+    "odoo-addon-coupon_chatter>=17.0dev,<17.1dev",
     "odoo-addon-loyalty_card_fixed_expiration_date>=17.0dev,<17.1dev",
 ]
 classifiers=[
