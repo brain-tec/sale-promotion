@@ -31,6 +31,7 @@ setuptools.setup(
         'odoo-addon-sale_loyalty_partner_applicability>=16.0dev,<16.1dev',
         'odoo-addon-website_sale_loyalty_page>=16.0dev,<16.1dev',
         'odoo-addon-website_sale_loyalty_suggestion_wizard>=16.0dev,<16.1dev',
+        'odoo-addon-website_sale_loyalty_suggestion_wizard_multi_gift>=16.0dev,<16.1dev',
         'odoo-addon-website_sale_loyalty_suggestion_wizard_multi_product>=16.0dev,<16.1dev',
     ],
     classifiers=[
