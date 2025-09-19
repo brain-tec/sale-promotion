@@ -1,6 +1,6 @@
 [project]
 name = "odoo-addons-oca-sale-promotion"
-version = "18.0.20250905.0"
+version = "18.0.20250918.0"
 dependencies = [
     "odoo-addon-loyalty_criteria_multi_product==18.0.*",
     "odoo-addon-loyalty_incompatibility==18.0.*",
@@ -22,6 +22,7 @@ dependencies = [
     "odoo-addon-website_sale_loyalty_page==18.0.*",
     "odoo-addon-website_sale_loyalty_suggestion_wizard==18.0.*",
     "odoo-addon-website_sale_loyalty_suggestion_wizard_multi_gift==18.0.*",
+    "odoo-addon-website_sale_loyalty_suggestion_wizard_multi_product==18.0.*",
 ]
 classifiers=[
     "Programming Language :: Python",
