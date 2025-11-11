@@ -93,13 +93,8 @@ msgstr "Segue"
 
 #. module: coupon_chatter
 #: model:ir.model,name:coupon_chatter.model_loyalty_program
-msgid "Loyalty display on a website"
-msgstr "Programma fedeltà visualizzato su sito web"
-
-#. module: coupon_chatter
-#: model:ir.model.fields,field_description:coupon_chatter.field_loyalty_program__message_main_attachment_id
-msgid "Main Attachment"
-msgstr "Allegato principale"
+msgid "Loyalty Program"
+msgstr ""
 
 #. module: coupon_chatter
 #: model:ir.model.fields,field_description:coupon_chatter.field_loyalty_program__message_has_error
@@ -183,3 +178,9 @@ msgstr "Messaggi sito web"
 #: model:ir.model.fields,help:coupon_chatter.field_loyalty_program__website_message_ids
 msgid "Website communication history"
 msgstr "Cronologia comunicazioni sito web"
+
+#~ msgid "Loyalty display on a website"
+#~ msgstr "Programma fedeltà visualizzato su sito web"
+
+#~ msgid "Main Attachment"
+#~ msgstr "Allegato principale"
